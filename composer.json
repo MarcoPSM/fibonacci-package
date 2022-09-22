@@ -1,5 +1,5 @@
 {
-    "name": "MarcoPSM/fibonacci-package",
+    "name": "marcopsm/fibonacci-package",
     "description": "A Fibonacci composer package.",
     "autoload": {
         "psr-4": {
